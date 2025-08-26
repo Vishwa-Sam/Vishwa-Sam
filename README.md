@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23330
-Fork on GitHub
-7916
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Vishwa R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
