@@ -5,7 +5,7 @@
 
 ###
 - 🔭 I’m currently working on **Building projects with Angular and strengthening my base to land my first job as a Frontend Developer**  
-- 🌱 I’m currently learning **Node.js, MongoDB, Express.js, and deepening my knowledge of Angular, JavaScript, and TypeScript**  
+- 🌱 I’m currently learning **Full-stack, and deepening my knowledge of Angular, JavaScript, and TypeScript**  
 - 💬 Ask me about **Angular, JavaScript, and frontend development**  
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
