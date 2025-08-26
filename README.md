@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="300" width="550" src="https://giffiles.alphacoders.com/363/36305.gif" />
+<img align="right" height="300" width="550" src="https://media.gifdb.com/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
@@ -46,4 +46,4 @@
 
 ###
 <br clear="both">
-<img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="Snake animation" width="250" />
+<img src="image.jpg" alt="Developer running meme" width="350" />
