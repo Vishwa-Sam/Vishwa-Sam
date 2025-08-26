@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishwa R</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<p align="center">
+  <img src="https://github.com/Vishwa-Sam/Vishwa-Sam/blob/main/Name%20and%20title.gif" alt="My GIF" width="600" />
+</p>
+
 
 ###
 - 🔭 I’m currently working on **Building projects with Angular and strengthening my base to land my first job as a Frontend Developer**  
