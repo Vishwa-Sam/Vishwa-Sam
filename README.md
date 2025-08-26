@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="300" width="550" src="https://media.gifdb.com/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
+<img align="right" height="300" width="550" src="https://media.gifdb.com/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"/>
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
