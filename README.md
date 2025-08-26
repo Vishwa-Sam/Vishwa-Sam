@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="350" width="550" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIK_vdgT4oL63CcI5ApXf_p576oN2bnM4AtA&s"/>
+<img align="right" height="350" width="550" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp"/>
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
@@ -46,4 +46,4 @@
 
 ###
 <br clear="both">
-<img align="center" height="350" width="800" src="https://media.licdn.com/dms/image/v2/C4E22AQFbPVAJDdZGyQ/feedshare-shrink_800/feedshare-shrink_800/0/1637057593647?e=1759363200&v=beta&t=rYPfAHI6iGt-DIZdgIL-65NNs83TAj_UiZ6uFSKQBow" />
+<img align="center" height="200" width="900" src="https://media.licdn.com/dms/image/v2/C4E22AQFbPVAJDdZGyQ/feedshare-shrink_800/feedshare-shrink_800/0/1637057593647?e=1759363200&v=beta&t=rYPfAHI6iGt-DIZdgIL-65NNs83TAj_UiZ6uFSKQBow" />
