@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="350" width="550" src="https://i.gifer.com/JXA0.gif"/>
+<img align="right" height="350" width="550" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIK_vdgT4oL63CcI5ApXf_p576oN2bnM4AtA&s"/>
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
@@ -46,4 +46,4 @@
 
 ###
 <br clear="both">
-<img src="image.jpg" alt="Developer running meme" width="350" />
+<img align="center" height="350" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GuHNY4e9p3TLdfH23ACjbmSDjnhob_Y_LA&s" />
