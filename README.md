@@ -46,4 +46,4 @@
 
 ###
 <br clear="both">
-<img align="center" height="350" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GuHNY4e9p3TLdfH23ACjbmSDjnhob_Y_LA&s" />
+<img align="center" height="350" width="800" src="https://media.licdn.com/dms/image/v2/C4E22AQFbPVAJDdZGyQ/feedshare-shrink_800/feedshare-shrink_800/0/1637057593647?e=1759363200&v=beta&t=rYPfAHI6iGt-DIZdgIL-65NNs83TAj_UiZ6uFSKQBow" />
