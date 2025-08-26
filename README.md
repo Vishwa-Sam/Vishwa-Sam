@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="250" src="https://giffiles.alphacoders.com/363/36305.gif" />
+<img align="right" height="250" width="200" src="https://giffiles.alphacoders.com/363/36305.gif" />
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
@@ -46,4 +46,4 @@
 
 ###
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Platane/snk/main/snk.svg" alt="Snake animation" width="250" height="auto" />
+<img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="Snake animation" width="250" />
