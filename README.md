@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vishwa-Sam/Vishwa-Sam/blob/main/Name%20and%20title.gif" alt="My GIF" width="600" />
+  <img src="https://github.com/Vishwa-Sam/Vishwa-Sam/blob/main/Name%20and%20title.gif" alt="My GIF" height ="250" width="900" />
 </p>
 
 
