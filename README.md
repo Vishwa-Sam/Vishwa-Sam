@@ -8,7 +8,7 @@
 - 📫 How to reach me **vishwa.r.ramesh@gmail.com**
 
 ###
-<img align="right" height="250" width="600" src="https://giffiles.alphacoders.com/363/36305.gif" />
+<img align="right" height="300" width="550" src="https://giffiles.alphacoders.com/363/36305.gif" />
 
 ###
 <h3 align="left">🛠 Tech Stack</h3>
