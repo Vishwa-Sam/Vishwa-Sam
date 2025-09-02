@@ -1,4 +1,4 @@
-<p align="center">
+d<p align="center">
   <img src="https://github.com/Vishwa-Sam/Vishwa-Sam/blob/main/Name%20and%20title.gif" alt="My GIF" height ="250" width="900" />
 </p>
 
@@ -15,17 +15,29 @@
 ###
 <h3 align="left">🛠 Tech Stack</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+     <img width="12" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+     <img width="12" />
+   </a>
+   <a href="https://tailwindcss.com">
+     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind logo" />
+     <img width="12" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+     <img width="12" />
+   </a>
+   <a href="https://www.typescriptlang.org">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+     <img width="12" />
+   </a>
+   <a href="https://angular.dev">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+   </a>
 </div>
 
 ###
