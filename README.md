@@ -15,28 +15,31 @@ d<p align="center">
 ###
 <h3 align="left">🛠 Tech Stack</h3>
 <div align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
      <img width="12" />
    </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
      <img width="12" />
    </a>
-   <a href="https://tailwindcss.com">
+   <a href="https://tailwindcss.com" target="_blank">
      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind logo" />
      <img width="12" />
    </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
      <img width="12" />
    </a>
-   <a href="https://www.typescriptlang.org">
+   <a href="https://www.typescriptlang.org" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
      <img width="12" />
    </a>
-   <a href="https://angular.dev">
+   <a href="https://angular.dev" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+   </a>
+   <a href="https://git-scm.com/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="12" height="30"/>
    </a>
 </div>
 
