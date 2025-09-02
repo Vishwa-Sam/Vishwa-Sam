@@ -38,8 +38,9 @@ d<p align="center">
    <a href="https://angular.dev" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
    </a>
-   <a href="https://git-scm.com/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="12" height="30"/>
+  <a href="https://git-scm.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+     <img width="12" />
    </a>
 </div>
 
