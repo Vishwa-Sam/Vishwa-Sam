@@ -27,6 +27,10 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo" />
       <img width="12" />
    </a>
+   <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="30" alt="bootstrap logo" />
+      <img width="12" />
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
      <img width="12" />
