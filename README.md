@@ -77,6 +77,6 @@
 <br><br>
 
 <p align="center">
-  <img src="./footer-readme.png" width="900" alt="Programmer Puns Footer" />
+  <img src="./footer-readme.gif" width="900" alt="Programmer Puns Footer" />
 </p>
 
