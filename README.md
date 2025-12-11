@@ -74,6 +74,9 @@
 </div>
 
 
-###
-<br clear="both">
-<img align="center" height="200" width="900" src="https://media.licdn.com/dms/image/v2/C4E22AQFbPVAJDdZGyQ/feedshare-shrink_800/feedshare-shrink_800/0/1637057593647?e=1759363200&v=beta&t=rYPfAHI6iGt-DIZdgIL-65NNs83TAj_UiZ6uFSKQBow" />
+<br><br>
+
+<p align="center">
+  <img src="./footer-readme.png" width="900" alt="Programmer Puns Footer" />
+</p>
+
