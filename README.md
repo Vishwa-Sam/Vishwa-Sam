@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./glitch-banner.svg" width="900" />
 </p>
+
 ---
 
 ### 👋 About Me  
