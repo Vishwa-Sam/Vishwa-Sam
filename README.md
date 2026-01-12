@@ -1,10 +1,6 @@
 <p align="center">
   <img src="./glitch-banner.svg" width="900" />
 </p>
-
-<h1 align="center">Vishwa R</h1>
-<h3 align="center">Front-End Developer</h3>
-
 ---
 
 ### 👋 About Me  
