@@ -60,10 +60,11 @@
 
 ###
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwa-Sam&theme=radical" height="150"/>
-</p>
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwa-Sam&theme=radical)
+
 
 <br><br>
 
