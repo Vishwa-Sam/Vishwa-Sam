@@ -62,12 +62,14 @@
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vishwa-Sam&show_icons=true&theme=radical&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=Vishwa-Sam&show_icons=true&theme=radical&cache_seconds=1800
+" 
     height="150" 
     alt="stats graph" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Sam&layout=compact&theme=radical&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Sam&layout=compact&theme=radical&cache_seconds=1800
+" 
     height="150" 
     alt="languages graph" 
   />
