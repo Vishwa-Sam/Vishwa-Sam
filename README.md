@@ -79,8 +79,11 @@ BookBuddy is a lightweight book discovery web application built using HTML, CSS,
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwa-Sam&theme=radical" width="45%" />
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Sam&layout=compact&theme=radical&hide_border=true" width="44%" />
+</p>
+
 </p>
 
 ---
