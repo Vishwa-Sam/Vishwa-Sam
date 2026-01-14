@@ -48,17 +48,31 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 Luxro — Car Rental Web Application  
-A full-featured Angular car rental application built with **Angular, TypeScript, Tailwind CSS, and Firebase SDK**. Implements secure authentication, real-time data synchronization, protected routing, and scalable frontend architecture without REST APIs.
+## Live Demo
+https://luxro-car-rental.netlify.app
+
+## Description
+Luxro Car Rental is a modern Angular 21 based web application that simulates a real-world car rental platform. The project features dynamic routing, modular component architecture, and a fully responsive user interface. It is deployed on Netlify with proper client-side routing support for production use.
 
 ---
 
 ### 🔹 RecipyRealm — Recipe Management Application  
-A production-style Angular recipe platform built with **Angular, Bootstrap, and Firebase**. Supports recipe exploration, ingredient management, personalized collections, and real-time shopping list synchronization.
+## Live Demo
+https://recipyrealm.netlify.app
+
+## Description
+
+RecipyRealm is an Angular-based recipe management application built using standalone components and lazy-loaded routes. The project features recipe browsing, detailed views, shopping list management, responsive UI, and production deployment on Netlify with proper client-side routing support.
 
 ---
 
 ### 🔹 BookBuddy — Online Bookstore Front-End  
-A dynamic front-end bookstore application built with **HTML, CSS, and JavaScript**, featuring book search, genre filtering, and wishlist management with smooth UI interactions.
+## Live Demo
+https://bookbuddy-app.netlify.app
+
+## Description
+
+BookBuddy is a lightweight book discovery web application built using HTML, CSS, and JavaScript. The project focuses on clean UI design, responsive layout, interactive user experience, and fast performance through static deployment on Netlify.
 
 ---
 
@@ -67,6 +81,12 @@ A dynamic front-end bookstore application built with **HTML, CSS, and JavaScript
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwa-Sam&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwa-Sam&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwa-Sam&theme=radical" width="48%" />
+</p>
+
 
 ---
 
