@@ -13,7 +13,7 @@
 - 📫 Reach me at **vishwa.r.ramesh@gmail.com**
 
 
-<img align="right" height="320" width="520" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp"/>
+<img align="right" height="320" width="520" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp" style="position: relative; z-index: 5;"/>
 
 ---
 
