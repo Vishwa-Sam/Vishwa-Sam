@@ -11,6 +11,7 @@
 - 📚 Continuously improving full-stack knowledge while focusing on frontend excellence  
 - 💬 Ask me about Angular, TypeScript, JavaScript, and UI engineering  
 - 📫 Reach me at **vishwa.r.ramesh@gmail.com**
+- 🌐 My Portfolio - https://vishwa-r-portfolio.netlify.app/
 
 
 <img align="right" height="320" width="520" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp" style="position: relative; z-index: 5;"/>
